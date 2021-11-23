@@ -6,7 +6,7 @@ on:
       - main
 
 env:
-  REGISTRY: "registry.digitalocean.com/Pocket-bot"
+  REGISTRY: "registry.digitalocean.com/pocket-bot"
   IMAGE_NAME: "telegram-bot"
   CONTAINER_NAME: "pocket"
 
