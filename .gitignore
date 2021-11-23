@@ -1,0 +1,13 @@
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+
+.bin
+.vscode
+.env
+
+*.db
+*.db.lock
